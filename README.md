@@ -2,7 +2,7 @@
 ####  I'm Idan Shalom - Junior Software Developer
 - 👨‍🎓 I'm a Computer Science student 
 - 🤖 I'm currently working on an android app
-- 🎓 I'm currently learning Java
+- 🌱 I'm currently learning Java
 - ⚡️ Fun fact: It's illegal to own just one guinea pig in Switzerland
 
 ## Connect with me:
