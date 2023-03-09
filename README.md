@@ -5,7 +5,7 @@
 - 🌱 I'm currently learning Java
 - ⚡️ Fun fact: It's illegal to own just one guinea pig in Switzerland
 
-## Connect with me:
+## Contact me:
 [<img alt="alt_text" width="30px" src="https://user-images.githubusercontent.com/104992892/223940207-75cc968e-3f13-4828-b371-896c848bd6d4.png" />](https://www.linkedin.com/in/idanxshalom/)
 &nbsp;
 [<img alt="alt_text" width="30px" src="https://user-images.githubusercontent.com/104992892/223945350-dea569fa-1854-4801-b741-b6ee5223bcab.png" />](https://www.linkedin.com/in/idanxshalom/)
