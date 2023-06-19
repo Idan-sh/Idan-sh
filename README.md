@@ -17,8 +17,30 @@
 
 
 
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/idan-sh/idan-sh/blob/output/github-contribution-grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=idan-sh&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
 
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=idan-sh&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+</p>        
+<!--- stats (end) -->
 
 <!--
 **Idan-sh/Idan-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
