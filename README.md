@@ -11,9 +11,10 @@
 <br>
 
 ## Contact me:
-<a href="https://www.linkedin.com/in/idanxshalom/"><img alt="LinkedIn Link" width="45px" src="https://user-images.githubusercontent.com/104992892/223940207-75cc968e-3f13-4828-b371-896c848bd6d4.png" /></a>
-<a href="mailto:idan.sh2@icloud.com"><img alt="Email Link" width="45px" src="https://user-images.githubusercontent.com/104992892/223945350-dea569fa-1854-4801-b741-b6ee5223bcab.png" /></a>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/idanxshalom/"><img alt="LinkedIn Link" width="45px" src="https://user-images.githubusercontent.com/104992892/223940207-75cc968e-3f13-4828-b371-896c848bd6d4.png" /></a> &nbsp;
+  <a href="mailto:idan.sh2@icloud.com"><img alt="Email Link" width="45px" src="https://user-images.githubusercontent.com/104992892/223945350-dea569fa-1854-4801-b741-b6ee5223bcab.png" /></a>
+</p>
 <br>
 
 ## Languages and Technologies:
