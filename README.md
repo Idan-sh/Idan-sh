@@ -20,7 +20,7 @@
 ## Languages and Technologies:
 <!-- stack icons -->
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/Idan-sh">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,py,spring,flask,linux,bash,postman,git,docker,github,cmake,firebase,idea,vscode&perline=16" />
   </a>
 </p>
