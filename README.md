@@ -1,9 +1,10 @@
 ## [Hello there](https://www.youtube.com/watch?v=rEq1Z0bjdwc) 👋
 ####  I'm Idan Shalom - Junior Software Developer
+
 - 👨‍🎓 I'm a Computer Science student 
-- 🤖 I'm currently working with a team on an android app
+- 🤖 I'm currently working with a team on an android app 
 - 🌱 I'm currently learning Java
-- ⚡️ Fun fact: It's illegal to own just one guinea pig in Switzerland
+- ⚡️ Fun fact: It's illegal to own just one guinea pig in Switzerland 
 
 ## Contact me:
 [<img alt="LinkedIn Link" width="30px" src="https://user-images.githubusercontent.com/104992892/223940207-75cc968e-3f13-4828-b371-896c848bd6d4.png" />](https://www.linkedin.com/in/idanxshalom/)
