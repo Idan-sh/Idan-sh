@@ -1,5 +1,6 @@
-## [Hello there](https://www.youtube.com/watch?v=rEq1Z0bjdwc) 👋
- <!-- used languages -->
+<h1 align="center"> <a href="https://www.youtube.com/watch?v=rEq1Z0bjdwc" alt="Hello">Hello there</a>&nbsp;&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<!-- used languages -->
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=idan-sh&show_icons=true&locale=en&layout=compact&bg_color=150d24&title_color=FFFFFF&text_color=FFFFFF&border_color=150d24" alt="idan-sh" />
 
 ####  I'm Idan Shalom - Junior Software Developer
@@ -10,14 +11,17 @@
 
 <br>
 
-## Contact me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/idanxshalom/"><img alt="LinkedIn Link" width="45px" src="https://user-images.githubusercontent.com/104992892/223940207-75cc968e-3f13-4828-b371-896c848bd6d4.png" /></a> &nbsp;
-  <a href="mailto:idan.sh2@icloud.com"><img alt="Email Link" width="45px" src="https://user-images.githubusercontent.com/104992892/223945350-dea569fa-1854-4801-b741-b6ee5223bcab.png" /></a>
-</p>
+<h2 align="left"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="56px"> </h2>
+<div align="left">
+ 
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idanxshalom/)
+[![image](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:idan.sh2@icloud.com)
+</div>
+
 <br>
 
-## Languages and Technologies:
+<h2> Languages and Technologies &nbsp;&nbsp;<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28> </h2>
+
 <!-- stack icons -->
 <p align="center">
   <a href="https://github.com/Idan-sh">
