@@ -30,8 +30,3 @@
 </p>
 
 <br>
-
-<!--- snake -->
-<div align="center">
-   <a href="https://github.com/Idan-sh"> <img src="https://github.com/idan-sh/idan-sh/blob/output/github-contribution-grid-snake.svg" alt="snake" /></a>
-</div>
