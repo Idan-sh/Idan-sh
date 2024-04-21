@@ -5,8 +5,8 @@
 
 ####  I'm Idan Shalom - Junior Software Developer
 - 👨‍🎓 I'm a Computer Science student 
-- 🤖 I'm currently working on an android app 
-- 🌱 I'm currently learning Kubernetes
+- 🤖 I'm currently working on a Kubernetes final project 
+- 🌱 I'm currently learning Kubernetes and React
 - ⚡️ Fun fact: It's illegal to own just one guinea pig in Switzerland 
 
 <br>
