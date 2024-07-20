@@ -4,9 +4,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=idan-sh&show_icons=true&locale=en&layout=compact&bg_color=150d24&title_color=FFFFFF&text_color=FFFFFF&border_color=150d24" alt="idan-sh" />
 
 ####  I'm Idan Shalom - Junior Software Developer
-- 👨‍🎓 I'm a Computer Science student 
+- 👨‍🎓 I'm a recent Computer Science graduate 
 - 🤖 I'm currently working on a Kubernetes final project 
-- 🌱 I'm currently learning Kubernetes and React
+- 🌱 I'm currently learning Kubernetes, React and TypeScript
 - ⚡️ Fun fact: It's illegal to own just one guinea pig in Switzerland 
 
 <br>
@@ -25,7 +25,7 @@
 <!-- stack icons -->
 <p align="center">
   <a href="https://github.com/Idan-sh">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,spring,flask,linux,bash,postman,git,docker,github,cmake,firebase,idea,vscode&perline=16" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,typescript,html,react,vite,spring,flask,linux,bash,cmake,postman,git,docker,kubernetes,arduino&perline=16" />
   </a>
 </p>
 
