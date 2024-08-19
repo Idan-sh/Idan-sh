@@ -25,7 +25,7 @@
 <!-- stack icons -->
 <p align="center">
   <a href="https://github.com/Idan-sh">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,typescript,html,react,vite,spring,flask,linux,bash,cmake,postman,git,docker,kubernetes,arduino&perline=16" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,typescript,html,react,vite,spring,flask,linux,postman,git,docker,kubernetes,arduino&perline=16" />
   </a>
 </p>
 
