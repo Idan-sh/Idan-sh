@@ -5,8 +5,8 @@
 
 ####  I'm Idan Shalom - Junior Software Developer
 - 👨‍🎓 I'm a recent Computer Science graduate 
-- 🤖 I'm currently working on my final project using Kubernetes 
-- 🌱 I'm currently learning Kubernetes, React and TypeScript
+- 🤖 I'm currently working on a freelance web project
+- 🌱 I'm currently learning React, TypeScript and Node.js
 - ⚡️ Fun fact: It's illegal to own just one guinea pig in Switzerland 
 
 <br>
@@ -25,7 +25,7 @@
 <!-- stack icons -->
 <p align="center">
   <a href="https://github.com/Idan-sh">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,typescript,html,react,vite,spring,flask,linux,postman,git,docker,kubernetes,arduino&perline=16&theme=light" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,typescript,html,react,vite,nodejs,spring,flask,linux,postman,git,docker,kubernetes,arduino&perline=17&theme=light" />
   </a>
 </p>
 
