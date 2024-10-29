@@ -16,7 +16,7 @@
  
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idanxshalom/)
 [![image](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:idan.sh2@icloud.com)
-[![image](https://img.shields.io/badge/Portfolio-0D7A1A?style=for-the-badge&logo=vercel&logoColor=white)](https://idansh.vercel.app)
+[![image](https://img.shields.io/badge/Portfolio-619E25?style=for-the-badge&logo=vercel&logoColor=white)](https://idansh.vercel.app)
 </div>
 
 <br>
