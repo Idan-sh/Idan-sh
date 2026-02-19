@@ -1,13 +1,11 @@
 <h1 align="center"> <a href="https://www.youtube.com/watch?v=rEq1Z0bjdwc" alt="Hello">Hello there</a>&nbsp;&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!-- used languages -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=idan-sh&show_icons=true&locale=en&layout=compact&bg_color=150d24&title_color=FFFFFF&text_color=FFFFFF&border_color=150d24" alt="idan-sh" />
-
-####  I'm Idan Shalom - Junior Software Developer
-- 👨‍🎓 I'm a recent Computer Science graduate 
-- 🤖 I'm currently working on a freelance web project
-- 🌱 I'm currently learning React, TypeScript and Node.js
-- ⚡️ Fun fact: It's illegal to own just one guinea pig in Switzerland 
+###  I'm Idan Shalom | Full-Stack Engineer
+> focused on scalable architecture, production reliability & AI-assisted development workflows.   
+-	🧠 I design authentication, monetization & segmentation architectures - not just features   
+-	🤖 AI-native developer (Cursor + Claude Code) - I use AI for system design, refactoring & cross-layer implementation   
+-	🚀 I care about clean state transitions, reliable deep links & infrastructure that scales without chaos   
+- 🔍 Fun Fact: If there’s a race condition, I will find it
 
 <br>
 
@@ -15,7 +13,7 @@
 <div align="left">
  
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idanxshalom/)
-[![image](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:idan.sh2@icloud.com)
+[![image](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:idan@idansh.dev)
 [![image](https://img.shields.io/badge/Portfolio-619E25?style=for-the-badge&logo=vercel&logoColor=white)](https://idansh.dev)
 </div>
 
@@ -26,7 +24,7 @@
 <!-- stack icons -->
 <p align="center">
   <a href="https://github.com/Idan-sh">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,typescript,html,react,vite,nodejs,spring,flask,linux,postman,git,docker,kubernetes,arduino&perline=17&theme=light" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,typescript,html,react,nextjs,aws,nodejs,spring,linux,postman,git,docker,kubernetes&perline=17&theme=light" />
   </a>
 </p>
 
