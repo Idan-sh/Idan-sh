@@ -3,7 +3,7 @@
 ###  I'm Idan Shalom | Full-Stack Engineer
 > focused on scalable architecture, production reliability & AI-assisted development workflows.   
 -	🧠 I design authentication, monetization & segmentation architectures - not just features   
--	🤖 AI-native developer (Cursor + Claude Code) - I use AI for system design, refactoring & cross-layer implementation   
+-	🤖 I use AI for system design, refactoring & cross-layer implementation (Cursor + Claude Code) 
 -	🚀 I care about clean state transitions, reliable deep links & infrastructure that scales without chaos   
 - 🔍 Fun Fact: If there’s a race condition, I will find it
 
